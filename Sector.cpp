@@ -1,5 +1,7 @@
-#include <iostream>
 #include <cstdlib>
+
+#include <iostream>
+
 using std::cout;
 
 int main() 
@@ -8,3 +10,4 @@ int main()
     cout << "Сергей\n";
     cout << 24 << "\n";
 }
+
