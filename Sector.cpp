@@ -4,8 +4,7 @@
 
 using std::cout;
 
-int main() 
-{
+int main() {
     system("chcp 1251 > nul");
     cout << "Сергей\n";
     cout << 24 << "\n";
