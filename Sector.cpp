@@ -4,6 +4,7 @@ using std::cout;
 int main() 
 {
     system("chcp 1251 > nul");
-    cout << "Ñåðãåé\n";
+    cout << "Ð¡ÐµÑ€Ð³ÐµÐ¹\n";
     cout << 24 << "\n";
+
 }
