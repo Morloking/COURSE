@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 using std::cout;
+
 int main() 
 {
     system("chcp 1251 > nul");
@@ -8,3 +9,4 @@ int main()
     cout << 24 << "\n";
 
 }
+
